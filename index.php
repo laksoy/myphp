@@ -1,4 +1,4 @@
 <?
 
-echo 'This is a PHP File'
+echo "This is a PHP File";
 ?>
